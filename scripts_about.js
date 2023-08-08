@@ -120,7 +120,7 @@ class Cuttt {
     } else if (type === 'input') {
       element = '<input data-for-cut type="text"></input>'
     } else if (type === 'image') {
-      element = '<img data-for-cut src="https://iili.io/Hc9F5rB.jpg">'
+      element = '<img data-for-cut src="cake1.jpg">'
     }
     container.innerHTML = element + element
     cuttt.remove()
