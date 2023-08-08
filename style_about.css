@@ -82,10 +82,10 @@ html, body {
   text-align: center;
 }
 .container >img{
-  width: 600px;
-  height:400px;
-  max-width: 50vmin;
-  max-height: 33.33vmin;
+  width: 1600px;
+  height:1400px;
+  max-width: 100vmin;
+  max-height: 89.99vmin;
 }
 .container >input{
   width: 65vmin;
