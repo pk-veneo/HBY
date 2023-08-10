@@ -89,9 +89,17 @@ p {
   text-align: center;
 }
 .custom-button {
-  background-color: #3498db;
+  background-color: rgb(0,0,100);
   color: white;
+  opacity:0.75;
   border: none;
   padding: 10px 20px;
   cursor: pointer;
+}
+.page{
+  text-align: center;
+  font-size: 50px;
+  color: rgb(0,0,100);
+  opacity: 0.75;
+  user-select: none;
 }
