@@ -82,8 +82,8 @@ html, body {
   text-align: center;
 }
 .container >img{
-  width: 1300px;
-  height:1300px;
+  width: 500px;
+  height:500px;
   max-width: 100vmin;
   max-height: 89.99vmin;
 }
