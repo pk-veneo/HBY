@@ -111,3 +111,10 @@ p {
   position: relative;
   left: 62px;
 }
+#second{
+  width: 205px;
+  height: 200px;
+  border: solid 3px aliceblue;
+  background-size: cover;
+  position: relative;
+}
